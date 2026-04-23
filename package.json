@@ -1,8 +1,7 @@
 {
-  "name": "proxy-father",
+  "name": "yt-download-proxy",
   "version": "1.0.0",
   "description": "YouTube Video Download Proxy by WASIF ALI",
-  "main": "api/download.js",
-  "author": "WASIF ALI",
+  "main": "api/download-proxy.js",
   "license": "MIT"
 }
