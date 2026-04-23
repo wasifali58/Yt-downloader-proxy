@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/download", "destination": "/api/download" }
+    { "source": "/api/download-proxy", "destination": "/api/download-proxy" }
   ],
   "headers": [
     {
