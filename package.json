@@ -1,0 +1,8 @@
+{
+  "name": "proxy-father",
+  "version": "1.0.0",
+  "description": "YouTube Video Download Proxy by WASIF ALI",
+  "main": "api/download.js",
+  "author": "WASIF ALI",
+  "license": "MIT"
+}
